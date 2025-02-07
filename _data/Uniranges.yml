@@ -1,0 +1,11 @@
+name: Uniranges
+url: https://gist.github.com/frankrolf/8eadb9455e1b31b0bcd7105954f453b0
+description: |
+  A small window which shows which Unicode ranges are supported, at what
+  extent.Clicking on a range name filters the font overview accordingly.
+developer: Frank Grießhammer
+developerURL: ''
+category: On-demand
+tags:
+- unicode
+dateAdded: '2023-10-3 10:00:26'

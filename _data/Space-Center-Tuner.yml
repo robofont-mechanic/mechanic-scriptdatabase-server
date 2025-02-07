@@ -1,0 +1,12 @@
+name: Space Center Tuner
+url: https://gist.github.com/ryanbugden/370012b38469247cca219c90bfc35e1a
+description: |
+  This is a little window with sliders that give you more control over
+  how text looks in your space center. Currently it gives you control over size, line-height,
+  and top/left padding... to a more exteme extent than the native drop-down.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- space center
+dateAdded: '2022-12-5 10:39:58'

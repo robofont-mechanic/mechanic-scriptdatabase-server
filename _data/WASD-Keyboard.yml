@@ -1,0 +1,12 @@
+name: WASD Keyboard
+url: https://gist.github.com/connordavenport/f9c3b571acc37f10a655e1be6d34fe6c
+description: |
+  Convert arrow functions to ASWD keys in the glyphView. If you have shortcuts
+  already set up for any of these keys you will run into issues!
+developer: Connor Davenport
+developerURL: ''
+category: Start-up script
+tags:
+- glyph view
+- observers
+dateAdded: '2022-10-5 16:27:12'

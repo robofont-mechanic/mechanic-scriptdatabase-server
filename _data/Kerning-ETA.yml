@@ -1,0 +1,14 @@
+name: Kerning ETA
+url: https://github.com/ryanbugden/RoboFont/tree/master/Kerning%20ETA
+description: |
+  "I'm almost done with this pairlist", you say? Nope! You're probably
+  not. Install this as a start-up script, and you''ll get a nice little message on
+  the top-right of your Metrics Machine extension with an estimated time to expect
+  to be done with your pair-list, at your current rate. See linked repo for more info.
+developer: Ryan Bugden
+developerURL: ''
+category: Start-up script
+tags:
+- kerning
+- vanilla
+dateAdded: '2022-5-8 15:20:54'

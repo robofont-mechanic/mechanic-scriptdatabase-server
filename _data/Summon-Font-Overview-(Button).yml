@@ -1,0 +1,15 @@
+name: Summon Font Overview (Button)
+url: https://gist.github.com/ryanbugden/e134aed20d7a9d586b17cd2288cb41cc
+description: |
+  Adds a button to your Glyph Editor to summon the corresponding font
+  overview. Great for cluttered multi-window mode users. Note: you can also now hit
+  Option+Command+E
+developer: Ryan Bugden
+developerURL: ''
+category: Start-up script
+tags:
+- character set
+- font overview
+- glyph view
+- user interface
+dateAdded: '2022-10-5 13:06:43'

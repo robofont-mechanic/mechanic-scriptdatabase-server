@@ -1,0 +1,21 @@
+name: Synchro Swim
+url: https://gist.github.com/ryanbugden/455818708d590dcc4d055f42e4671c25
+description: |
+  This tool speeds up the process of syncing point length ratios across
+  multiple sources. Select points in one open source, and corresponding glyphs in
+  other open sources will automatically adjust (make sure those glyph windows are
+  open, or changes will occur unseen). The tool offers options to either match the
+  ratio of the selected points in the current glyph or make all corresponding points
+  adhere to the calculated average ratio between them. You can also specify how much
+  it adjusts on-curve versus off-curve points. Also, it has a basic global undo button.
+  It works best with Smooth Operator and AngleRatioTool. Use those to diagnose issues
+  and this tool to fix them. Open to name suggestions for this tool :)
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- ezui
+- glyph view
+- interpolation
+- points
+dateAdded: '2024-25-7 13:44:58'

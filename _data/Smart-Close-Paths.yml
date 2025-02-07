@@ -1,0 +1,11 @@
+name: Smart Close Paths
+url: https://gist.github.com/frankrolf/a90c95a7c1c798befa9b8b64cd9f1e25
+description: |
+  close paths based on point distance rather than to which contour they
+  belong to
+developer: Frank Grießhammer
+developerURL: ''
+category: On-demand
+tags:
+- contours
+dateAdded: '2022-10-5 16:17:26'

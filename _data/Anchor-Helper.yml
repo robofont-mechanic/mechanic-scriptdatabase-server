@@ -1,0 +1,14 @@
+name: Anchor Helper
+url: https://gist.github.com/okay-type/73637a66de2772a0d18c68efa404a1e7
+description: Adds a UI in glypheditview to preview components based on anchors
+developer: Jackson
+developerURL: ''
+category: On-demand
+tags:
+- accented glyphs
+- anchors
+- components
+- glyph view
+- subscriber
+- user interface
+dateAdded: '2022-11-5 10:51:17'

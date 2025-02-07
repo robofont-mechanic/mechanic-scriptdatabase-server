@@ -1,0 +1,13 @@
+name: Toggle Skip-Export
+url: https://gist.github.com/ryanbugden/229da5d9b23f7609d98f769398620f24
+description: |
+  Select some glyphs and run this script. It will toggle where all of the
+  selected glyphs will be set to non-exporting.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- font generation
+- font overview
+- glyphs
+dateAdded: '2022-11-5 11:57:20'

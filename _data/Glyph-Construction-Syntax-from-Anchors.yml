@@ -1,0 +1,15 @@
+name: Glyph Construction Syntax from Anchors
+url: https://gist.github.com/typoman/88c6a8b31cf2177f97f40adb29e699ad
+description: |
+  To create RoboFont glyph construction syntax out of the exisiting
+  composites inside a font using the anchor names. It's like doing the glyphConstruction
+  in reverse.
+developer: Bahman Eslami
+developerURL: ''
+category: On-demand
+tags:
+- accented glyphs
+- anchors
+- character set
+- components
+dateAdded: '2023-31-5 7:15:00'

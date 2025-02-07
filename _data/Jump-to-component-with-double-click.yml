@@ -1,0 +1,16 @@
+name: Jump to component with double click
+url: https://gist.github.com/typoman/4169203c4507f23400b6c58140f0cf92
+description: |
+  In a glyph that contains components, if you double click on a component,
+  the glyph view switches to that glyph. This makes it possible to modify the component
+  glyph immediately without having to search for the glyph name.
+developer: Bahman Eslami
+developerURL: ''
+category: Start-up script
+tags:
+- accented glyphs
+- components
+- diacritics
+- glyph view
+- observers
+dateAdded: '2022-11-5 17:34:14'

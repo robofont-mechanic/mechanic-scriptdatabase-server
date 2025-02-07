@@ -1,0 +1,10 @@
+name: Skew Selected Segments to Italic Angle
+url: https://gist.github.com/frankrolf/e60e0966ef25915b9f55789b8c954962
+description: Run this script to skew the selected segments to the italic angle.
+developer: Frank Grießhammer
+developerURL: ''
+category: On-demand
+tags:
+- drawing
+- points
+dateAdded: '2022-31-5 12:03:37'

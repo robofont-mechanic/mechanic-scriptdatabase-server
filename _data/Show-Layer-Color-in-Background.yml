@@ -1,0 +1,13 @@
+name: Show Layer Color in Background
+url: https://gist.github.com/arialcrime/67e09fd5b392520fc6a0050fd73cf6cd
+description: |
+  This paints glyph window background in layer color. Helps to make user
+  aware they are currently not working on default layer.
+developer: Benedikt Bramböck
+developerURL: ''
+category: Start-up script
+tags:
+- glyph view
+- layers
+- subscriber
+dateAdded: '2022-12-5 4:38:09'

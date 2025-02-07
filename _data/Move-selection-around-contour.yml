@@ -1,0 +1,14 @@
+name: Move selection around contour
+url: https://gist.github.com/frankrolf/841b46a259a1dc424054c33953c99681
+description: |
+  This moves the current contour selection to the next logical step,
+  until the selection comes back around to its origin. This is similar
+  to RF’s tabbing of selected points, but with multiple points/selections
+  supported. I have set these scripts to shortcut combinations ctrl-[ and ctrl-]
+developer: Frank Grießhammer
+developerURL: ''
+category: On-demand
+tags:
+- drawing
+- selection
+dateAdded: '2023-10-3 9:58:23'

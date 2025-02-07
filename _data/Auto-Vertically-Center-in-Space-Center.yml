@@ -1,0 +1,12 @@
+name: Auto-Vertically-Center in Space Center
+url: https://gist.github.com/ryanbugden/d338fd89e123fa3b9adf3c35491e4c07
+description: |
+  Keep your text vertically centered in Space Center, unless the text is
+  taller than the Space Center window. In that case, it will go back to top-aligning.
+developer: Ryan Bugden
+developerURL: ''
+category: Start-up script
+tags:
+- spacing
+- subscriber
+dateAdded: '2024-19-12 16:29:19'

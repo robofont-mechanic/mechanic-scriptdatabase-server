@@ -1,0 +1,12 @@
+name: Can Opener
+url: https://gist.github.com/connordavenport/a4f31f3b94b2fb3a969b18ecbcfef846
+description: |
+  A series of scripts that add “open last font” functionality to RoboFont.
+  Set the CanCloser.py as a startup script and CanOpener.py uses command+shift+T to open the last font.
+developer: Connor Davenport
+developerURL: ''
+category: On-demand
+tags:
+- font lib
+- saving
+dateAdded: '2022-11-5 11:07:54'

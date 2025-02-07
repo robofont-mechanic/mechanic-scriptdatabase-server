@@ -1,0 +1,14 @@
+name: Rename Glyphs
+url: https://gist.github.com/ryanbugden/567ed3530e5e8c0485e33720da106e75
+description: |
+  This is a right-click contextual menu for Font Overview. It allows you
+  to quickly rename all selected glyphs, with (Rename, Find/Replace, Add to name,
+  Force Suffix). It's kind of like Suffixer, but right there in Font Overview.
+developer: Ryan Bugden
+developerURL: ''
+category: Start-up script
+tags:
+- font overview
+- glyphs
+- menu
+dateAdded: '2024-10-7 14:29:59'

@@ -1,0 +1,11 @@
+name: Cherry Picker
+url: https://gist.github.com/ryanbugden/2279e5378fa9a73245af30dfbae2904a
+description: Selectively load individual extensions from the comfort of Safe Mode.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- ezui
+- extension management
+- safe mode
+dateAdded: '2024-6-1 18:45:44'

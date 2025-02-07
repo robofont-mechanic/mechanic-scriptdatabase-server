@@ -1,0 +1,13 @@
+name: Scale Italic Contours Horizontally
+url: https://gist.github.com/ryanbugden/7df9d90036ec716bebf0fc2e39731555
+description: |
+  This is a small proof-of-concept script that allows you to scale the selected
+  contours horizontally while compensating for the font’s italicAngle.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- contours
+- drawing
+- italics
+dateAdded: '2022-31-5 19:34:41'

@@ -1,0 +1,39 @@
+
+
+name: Mechanic Script Database
+email: your-email@example.com
+description: "The RoboFont Script database"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://scripts.robofontmechanic.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+
+permalink: /:title/
+
+port: 8888
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+plugins:
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  #- jekyll-gist
+  - rouge
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME

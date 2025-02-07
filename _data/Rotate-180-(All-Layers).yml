@@ -1,0 +1,13 @@
+name: Rotate 180 (All Layers)
+url: https://gist.github.com/ryanbugden/dc2a56ee2eac23cf74c60a4585f73e49
+description: |
+  A script that rotates your glyph and all of its layers. It does its best
+  to rotate it in a helpful way, not necessarily just around the body of the contours
+  themselves.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- drawing
+- transform
+dateAdded: '2023-2-8 22:30:28'

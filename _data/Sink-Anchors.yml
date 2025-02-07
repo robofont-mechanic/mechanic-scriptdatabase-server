@@ -1,0 +1,12 @@
+name: Sink Anchors
+url: https://gist.github.com/connordavenport/905b29d9fd19087ba1ebd3976c910123
+description: Syncs anchors across glyphs based on a list in a "base glyph".
+developer: Connor Davenport
+developerURL: ''
+category: Start-up script
+tags:
+- accented glyphs
+- anchors
+- diacritics
+- observers
+dateAdded: '2022-10-5 16:24:41'

@@ -1,0 +1,15 @@
+name: Copy/Paste SVG Tools
+url: https://gist.github.com/ryanbugden/326ba693da025634e8f80c22e4d53eb9
+description: |
+  Scripts for moving SVG shape data to and from Figma (or other apps)
+  via pasteboard. These enable you to: 1) Have a new menu item (Edit > Copy Glyph
+  as SVG), which should take the current glyph and put it in your pasteboard as SVG
+  data 2) Allow most Figma-based "copy-as-svg"s to be able to be pasted directly into
+  RF.
+developer: Ryan Bugden
+developerURL: ''
+category: Start-up script
+tags:
+- clipboard
+- glyphs
+dateAdded: '2023-10-7 13:25:12'

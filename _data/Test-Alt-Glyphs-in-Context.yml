@@ -1,0 +1,13 @@
+name: Test Alt Glyphs in Context
+url: https://gist.github.com/ryanbugden/109636cce4a50fa38f9ff6562ea9392a
+description: |
+  A little script to test alternate glyphs in context. Type a test string
+  with blanks (_). See that test string with blanks replaced by selected glyphs.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- glyphs
+- space center
+- mojo
+dateAdded: '2023-17-3 13:17:11'

@@ -1,0 +1,11 @@
+name: Toggle Cut-off Position
+url: https://gist.github.com/ryanbugden/a6f152e995c875ebe599d3b0370a8d05
+description: |
+  Cycles through different options for Space Center’s cut-off. according to your
+  font's dimensions. The shortcut is set to Control + C, but you can change it.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- space center
+dateAdded: '2022-10-5 13:10:23'

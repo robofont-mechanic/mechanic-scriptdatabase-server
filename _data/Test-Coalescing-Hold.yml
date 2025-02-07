@@ -1,0 +1,10 @@
+name: Test Coalescing Hold
+url: https://gist.github.com/okay-type/0922f38ce7268cda58bf915cdfb89b00
+description: |
+  Proof of concept: collect subscriber events but wait for a pause proceeding
+developer: Jackson
+developerURL: ''
+category: Demo / Snippet
+tags:
+- subscriber
+dateAdded: '2022-11-5 12:03:11'

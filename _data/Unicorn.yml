@@ -1,0 +1,13 @@
+name: Unicorn
+url: https://gist.github.com/ryanbugden/8e1f9d3ea82ea7ff6b53a2c93df400ed
+description: |
+  A simple window to auto-assign unicodes (based on glyph names) or glyph
+  names (based on unicodes) to selected glyphs, the current font, or all fonts.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- ezui
+- glyph view
+- unicode
+dateAdded: '2023-3-8 14:22:41'

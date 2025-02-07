@@ -1,0 +1,13 @@
+name: Subscriberer
+url: https://gist.github.com/arialcrime/90f19972a80b21db0da19d1d04f3ad76
+description: |
+  This gives an overview of all active subscribers, tells you where they
+  come from, and gives the option to unsubscribe from the ones selected.
+developer: Benedikt Bramböck
+developerURL: ''
+category: Debugging
+tags:
+- ezui
+- subscriber
+- vanilla
+dateAdded: '2022-11-11 13:58:32'

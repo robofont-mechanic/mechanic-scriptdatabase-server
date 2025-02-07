@@ -1,0 +1,13 @@
+name: Set Latest Kern Value
+url: https://gist.github.com/ryanbugden/02a2485c16ce519ee9b7b7379d1d1e6c
+description: |
+  Set the kern value of the current pair to the value from the pair you
+  were just on. Two scripts: one Start-up, another normal/executable (currently via
+  the PageDn key [set your own shortcut within the script.).
+developer: Ryan Bugden
+developerURL: ''
+category: Start-up script
+tags:
+- kerning
+- observers
+dateAdded: '2023-23-3 12:56:02'

@@ -1,0 +1,9 @@
+name: Unicats
+url: https://gist.github.com/frankrolf/a4fe38d51a05fe8a56743d1472779136
+description: Show supported Unicode categories, filter font overview by category.
+developer: Frank Grießhammer
+developerURL: ''
+category: On-demand
+tags:
+- unicode
+dateAdded: '2023-10-3 10:03:08'

@@ -1,0 +1,21 @@
+{% include extensions %}
+<div class="extensions-list">
+{% for page in extensions %}
+    <div class="extension-item">
+        <div class="extension-header">
+            <h1>
+                <a href="{{ site.baseurl }}{{ page.url | remove: 'index'}}">{{ page.title }}</a>
+            </h1>
+            {% if page.purchaseURL %}
+                <a class="buy-button small float-right" href="{{ page.purchaseURL }}">buy</a>
+            {% endif %}
+        </div>
+        <a href="{{ site.baseurl }}/#{{ page.developer | slugify }}">{{ page.developer }}</a>
+        {% if page.description %}
+            <p class="extension-description">
+                {{ page.description }}
+            </p>
+        {% endif %}
+    </div>
+{% endfor %}
+</div>

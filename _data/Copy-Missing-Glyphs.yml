@@ -1,0 +1,14 @@
+name: Copy Missing Glyphs
+url: https://gist.github.com/ryanbugden/7b885e69768f5c618ae9cec418f102a6
+description: |
+  Copy glyphs from an open UFO to another UFO, provided the glyph doesn't yet exist
+  in the destination UFO. This is useful if you’d like a starting point for drawing
+  some glyphs in a new design source.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- character set
+- ezui
+- glyphs
+dateAdded: '2023-10-3 18:00:16'

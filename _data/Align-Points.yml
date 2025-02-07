@@ -1,0 +1,14 @@
+name: Align Points
+url: https://gist.github.com/ryanbugden/20e2b4296ad5202eb4c10931d165c72c
+description: |
+  This script aligns selected points intelligently. It will look at the
+  x-coordinate offset and the y-coordinate offset and align according to whichever
+  one is smaller. It will also make an educated guess as to which direction you'd
+  like to align it. And adjust to your italic angle when helpful.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- drawing
+- points
+dateAdded: '2023-2-8 22:35:40'

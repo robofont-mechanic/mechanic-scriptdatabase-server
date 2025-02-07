@@ -1,0 +1,13 @@
+name: 'Template: Show/Hide in Glyph Window'
+url: https://gist.github.com/arialcrime/b5bd496531bcc3ab76c4fe54e6bc14f1
+description: |
+  Basic structure for a Subscriber/Merz thing that would show/hide drawn
+  stuff in glyph editor window
+developer: Benedikt Bramböck
+developerURL: ''
+category: Demo / Snippet
+tags:
+- glyph view
+- subscriber
+- merz
+dateAdded: '2023-20-6 6:18:30'

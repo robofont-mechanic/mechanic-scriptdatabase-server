@@ -1,0 +1,13 @@
+name: Avoid off-curve start points
+url: https://gist.github.com/frankrolf/e75980e3895df26615cc8ed1e60f9c5b
+description: Redraw glyphs if necessary, so off-curve start points no longer exist
+developer: Frank Grießhammer
+developerURL: ''
+category: On-demand
+tags:
+- contours
+- drawing
+- interpolation
+- pens
+- points
+dateAdded: '2023-20-9 10:15:15'

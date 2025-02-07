@@ -1,0 +1,14 @@
+name: Slice Off Top / Bottom of Glyph
+url: https://gist.github.com/ryanbugden/eb6a3eab6507b535c8c62ddad22d8f23
+description: |
+  A simple window which allows you to choose which parts of the current
+  glyph you'd like to chop off (e.g above cap height and below baseline)
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- contours
+- drawing
+- ezui
+- points
+dateAdded: '2022-1-6 11:21:42'

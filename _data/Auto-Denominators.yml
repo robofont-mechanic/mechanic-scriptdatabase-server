@@ -1,0 +1,14 @@
+name: Auto Denominators
+url: https://gist.github.com/typesupply/f0c965bb50f5625ec032c957279eb7cd
+description: |
+  Make .den glyphs, add components referencing .num glyphs and position
+  them at the bottom.
+developer: Tal Leming
+developerURL: ''
+category: On-demand
+tags:
+- character set
+- fractions
+- figures
+- glyph generator
+dateAdded: '2022-10-5 15:41:19'

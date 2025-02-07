@@ -1,0 +1,16 @@
+name: Copy Names To Clipboard
+url: https://gist.github.com/LettError/b6dc76bfb677878952f5cfdcfc39e131
+description: RoboFont Script that offers a small UI for copying the selected glyphs
+  in different ways.
+developer: Erik van Blokland
+developerURL: ''
+category: On-demand
+tags:
+- character set
+- clipboard
+- components
+- editing tools
+- font overview
+- glyphs
+- groups
+dateAdded: '2023-10-3 5:55:33'

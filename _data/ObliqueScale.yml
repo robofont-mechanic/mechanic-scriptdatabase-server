@@ -1,0 +1,15 @@
+name: ObliqueScale
+url: https://gist.github.com/LettError/7bbf52eeadfee6cb16e1afa2b9af802a
+description: |
+  Horizontal scaling while preserving the italic angle. (by "unskewing"
+  the geometry to "upright", then scaling, then "reskewing" back to the italic angle)
+developer: Erik van Blokland
+developerURL: ''
+category: Demo / Snippet
+tags:
+- contours
+- editing tools
+- pens
+- points
+- transform
+dateAdded: '2023-10-3 5:53:59'

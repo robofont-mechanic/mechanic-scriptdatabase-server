@@ -1,0 +1,12 @@
+name: Rewrite Designspace
+url: https://gist.github.com/arialcrime/d2fa5b7abaee7f8dba9bdf40c74d8894
+description: |
+  This is an example on how to rearrange an existing designspace file through
+  a script. It sorts sources & instances, cleans up instances names and paths, and
+  generates a weight axis map based on style names.
+developer: Benedikt Bramböck
+developerURL: ''
+category: Demo / Snippet
+tags:
+- designspace
+dateAdded: '2023-7-2 14:39:10'

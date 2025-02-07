@@ -1,0 +1,14 @@
+name: Add Angled Guideline on Selection
+url: https://gist.github.com/ryanbugden/e13fa4f24428a0f0aebeebe42c3d002c
+description: |
+  If you select two points and hit Shift+Control+G, it will make an angled
+  guideline on the two points. If the selection has 1 pt, it will make a horizontal
+  guide. I forget what happens when you have more than 2 selected points, but it's
+  less useful.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- guidelines
+- points
+dateAdded: '2022-11-5 9:58:52'

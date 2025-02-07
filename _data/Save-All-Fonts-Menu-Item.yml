@@ -1,0 +1,12 @@
+name: Save All Fonts Menu Item
+url: https://gist.github.com/ryanbugden/d90b284ec9a2648ede01d944e84ad5e9
+description: |
+  Adds a menu item to "File" which saves all open fonts (not other documents
+  like scripts).
+developer: Ryan Bugden
+developerURL: ''
+category: Start-up script
+tags:
+- menu
+- saving
+dateAdded: '2022-10-5 12:53:54'

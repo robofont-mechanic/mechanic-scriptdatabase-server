@@ -1,0 +1,16 @@
+name: Monospace Selected Glyphs
+url: https://gist.github.com/ryanbugden/2e2ca71efc57f867c9fb079cfa4a91e5
+description: |
+  Adds a right-click menu-item to Font Overview. All selected glyphs will
+  be set to the same glyph width. The original spacing decisions of the glyph will
+  be "honored". Before inputting your desired glyph width, it will suggest the median
+  of the selection.
+developer: Ryan Bugden
+developerURL: ''
+category: Start-up script
+tags:
+- font overview
+- glyphs
+- spacing
+- subscriber
+dateAdded: '2022-10-5 13:25:34'

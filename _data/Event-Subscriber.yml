@@ -1,0 +1,13 @@
+name: Event Subscriber
+url: https://gist.github.com/ryanbugden/b91b13c35dee797fabb6b29d3c9cd8ca
+description: |
+  A Subscriber-based version of eventObserver. Useful for tracking internal
+  notifications and tool-building.
+developer: Ryan Bugden
+developerURL: ''
+category: On-demand
+tags:
+- ezui
+- notifications
+- subscriber
+dateAdded: '2024-22-1 17:47:10'

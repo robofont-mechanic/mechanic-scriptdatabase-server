@@ -1,0 +1,10 @@
+name: Test Window Position Size as Pref
+url: https://gist.github.com/okay-type/9d768ddcb8cad5fe9c1eb8c5386e380c
+description: save/load a window's size and position
+developer: Jackson
+developerURL: ''
+category: Demo / Snippet
+tags:
+- user interface
+- vanilla
+dateAdded: '2022-11-5 14:05:20'

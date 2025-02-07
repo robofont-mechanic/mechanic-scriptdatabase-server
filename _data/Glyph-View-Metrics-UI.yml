@@ -1,0 +1,13 @@
+name: Glyph View Metrics UI
+url: https://gist.github.com/okay-type/5b82a346996015f26e0e4f4d1a3cec85
+description: |
+  Adds a UI to the glyph edit view for lazily adjusting the horizontal
+  metrics
+developer: Jackson
+developerURL: ''
+category: Start-up script
+tags:
+- drawing
+- editing tools
+- user interface
+dateAdded: '2022-11-5 10:52:43'

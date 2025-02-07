@@ -1,0 +1,7 @@
+{% include extensions %}
+{% assign developers = "" | split:"|"  %}
+{% for item in extensions %}
+    {% unless developers contains item.developer %}
+        {% assign developers = developers | push: item.developer %}
+    {% endunless %}
+{% endfor %}
