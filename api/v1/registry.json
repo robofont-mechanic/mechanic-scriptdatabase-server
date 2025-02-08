@@ -1,0 +1,21 @@
+---
+layout: null
+exclude: true
+excludeSearch: true
+---
+{%- include extensions -%}
+{
+    "lastUpdate" : "{{ site.time | date: '%Y-%m-%d %H:%M' }}",
+    "scripts" : [
+    {%- for item in extensions -%}    {
+            "name": {{ item.name | jsonify }},
+            "url" :  {{ item.url | jsonify }},
+            "description" : {{ item.description | jsonify }},
+            "developer" : {{ item.developer | jsonify }},
+            "developerURL" : {{ item.developerURL | jsonify }},
+            "tags" : {{ item.tags | jsonify }}
+            "category" : {{ item.category | jsonify }}
+        }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+    ]
+}
