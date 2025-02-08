@@ -389,7 +389,7 @@ a {
     font-size: 90%;
     line-height: 20px;
     padding: 0 $sideMargin;
-    color: #c5c5c5;
+    color: #ffd2f8;
     @extend .no-select;
     label {
         margin-left: 20px;
@@ -447,7 +447,7 @@ a {
         background-color: transparent;
         &:hover {
             cursor: pointer;
-            color: gray;
+            color: white;
         }
     }
 }
