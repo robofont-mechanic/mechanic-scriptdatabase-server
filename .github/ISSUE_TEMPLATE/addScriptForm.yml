@@ -1,7 +1,6 @@
-name: Add Script to The RoboFont Script Database
-description: File a bug report.
+name: Add Script to The RoboFont Mechanic Script Database
 title: "[Add Script]: "
-labels: ["Add Script"]
+labels: ["add-script"]
 assignees:
   - typemytype
   - ryanbugden
