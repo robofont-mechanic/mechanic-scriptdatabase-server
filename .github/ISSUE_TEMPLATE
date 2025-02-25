@@ -1,0 +1,55 @@
+name: Add Script to The RoboFont Script Database
+description: File a bug report.
+title: "[Add Script]: "
+labels: ["Add Script"]
+assignees:
+  - typemytype
+  - ryanbugden
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a script!
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Script Link
+    validations:
+      required: true
+
+  - type: input
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+
+  - type: input
+    id: developer
+    attributes:
+      label: Developer
+    validations:
+      required: true
+
+  - type: input
+    id: developerURL
+    attributes:
+      label: Developer URL
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: A comma separated list of tags.
+    validations:
+      required: true
