@@ -1,5 +1,5 @@
 name: Add Script
-description: Add Script to The RoboFont Mechanic Script Database.
+description: Add a Script to The RoboFont Mechanic Script Database.
 title: "[Add Script]: "
 labels: ["add-script"]
 assignees:
@@ -9,7 +9,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for submitting a script!
+
+        Add a Script to The RoboFont Mechanic Script Database.
+
+        Thanks for submitting!
 
   - type: input
     id: name
