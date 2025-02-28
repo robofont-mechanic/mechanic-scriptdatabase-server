@@ -1,0 +1,17 @@
+name: Sync Layer Appearance
+url: https://gist.github.com/LettError/be076a82bded34216f07818bd77e38af
+description: |
+  RoboFont layer's drawing states are sometimes a bit fiddly to edit. 
+  Different colors, different fills. When your designspace has many sources 
+  switching between different states can be visually jarring. This here 
+  script takes the current font as a model, and then applies its layer 
+  states and layer colors to the other open sources.
+developer: LettError Type
+developerURL: 'https://letterror.com'
+category: On-demand
+tags:
+- appearance
+- designspace
+- layers
+- glyph view
+dateAdded: '2025-02-28 17:30:00'
