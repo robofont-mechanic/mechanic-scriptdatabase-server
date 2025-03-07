@@ -13,7 +13,7 @@ excludeSearch: true
 {% for item in dateSortedExtesions %}
 <item>
 <title>{{ item.name }} by {{ item.developer }}</title>
-<link>{{ item.repository }}</link>
+<link>{{ item.url }}</link>
 <description>{{ item.description | escape }}</description>
 </item>
 {% endfor %}
