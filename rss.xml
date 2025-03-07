@@ -7,8 +7,8 @@ excludeSearch: true
 <rss version="2.0">
 <channel>
 <title>Robofont Mechanic 2</title>
-<description>A feed of Robofont extensions managed by Mechanic</description>
-<link>http://www.robofontmechanic.com/rss</link>
+<description>A feed of RoboFont the Mechanic script database</description>
+<link>http://scripts.robofontmechanic.com/rss</link>
 {% assign dateSortedExtesions = extensions | sort:"dateAdded" | reverse %}
 {% for item in dateSortedExtesions %}
 <item>
