@@ -1,4 +1,4 @@
-# Mechanic Script Database
+# RoboFont Script Database
 
 Found an usefull script? [Create an issue to add a script to the script database](https://github.com/robofont-mechanic/mechanic-scriptdatabase-server/issues/new?template=addScriptForm.yml)
 
