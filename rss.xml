@@ -12,7 +12,7 @@ excludeSearch: true
 {% assign dateSortedExtesions = extensions | sort:"dateAdded" | reverse %}
 {% for item in dateSortedExtesions %}
 <item>
-<title>{{ item.extensionName }} by {{ item.developer }}</title>
+<title>{{ item.name }} by {{ item.developer }}</title>
 <link>{{ item.repository }}</link>
 <description>{{ item.description | escape }}</description>
 </item>
