@@ -2,7 +2,7 @@
 
 name: RoboFont Script Database
 email: your-email@example.com
-description: "RoboFont Script database"
+description: "A gist and a snippet database with many public available RoboFont scripts."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scripts.robofontmechanic.com" # the base hostname & protocol for your site, e.g. http://example.com
