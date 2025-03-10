@@ -1,8 +1,11 @@
 # RoboFont Script Database
 
-Found an usefull script? [Create an issue to add a script to the script database](https://github.com/robofont-mechanic/mechanic-scriptdatabase-server/issues/new?template=addScriptForm.yml)
+## Submitting to the database
+Have you written a useful script? [Create an issue](https://github.com/robofont-mechanic/mechanic-scriptdatabase-server/issues/new?template=addScriptForm.yml) to add a script to the script database.
 
-## Script metadata
+### Script metadata
+
+This is the metadata that is collected and used for organization purposes on the [Script Database website](https://scripts.robofontmechanic.com/):
 
 ```yaml
 name: <name of the script>
