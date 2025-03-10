@@ -49,10 +49,62 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: tags
     attributes:
       label: Tags
-      description: A comma separated list of tags.
+      description: Select one or more tags.
+      multiple: true
+      options:
+        - accented glyphs
+        - anchors
+        - appearance
+        - character set
+        - clipboard
+        - components
+        - contours
+        - designspace
+        - diacritics
+        - drawing
+        - editing tools
+        - extension management
+        - ezui
+        - figures
+        - font dimensions
+        - font generation
+        - font lib
+        - font overview
+        - fractions
+        - glyph generator
+        - glyph view
+        - glyphs
+        - groups
+        - guidelines
+        - inspector
+        - interpolation
+        - italics
+        - kerning
+        - layers
+        - menu
+        - merz
+        - mojo
+        - notes
+        - notifications
+        - observers
+        - pens
+        - points
+        - safe mode
+        - saving
+        - scripting
+        - selection
+        - space center
+        - spacing
+        - subscriber
+        - tabular figures
+        - transform
+        - unicode
+        - user interface
+        - vanilla
     validations:
       required: true
+
