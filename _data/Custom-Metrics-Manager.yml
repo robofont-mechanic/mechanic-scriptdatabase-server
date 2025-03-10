@@ -1,0 +1,12 @@
+name: Custom Metrics Manager
+url: https://gist.github.com/connordavenport/ea50758429974d12df3d5c114d9d491b
+description: |
+  A manager for custom vertical metrics
+developer: Connor Davenport
+developerURL: 'https://connordavenport.com'
+category: On-demand
+tags:
+- font dimensions
+- merz
+- notes
+dateAdded: '2025-03-10 11:30:00'
