@@ -1,0 +1,12 @@
+name: Magnetic Metrics 2
+url: https://gist.github.com/adbac/2d2150d5e90a1008c1b8ecb28febfc60
+description: |
+  A new version of ProductionType's magneticMetrics script, adapted for RoboFont 4 (using the Subscriber and merz modules)
+developer: Originally written by ProductionType, updated by Adrien Bachelart
+developerURL: 'https://github.com/adbac/'
+category: Start-up script
+tags:
+- glyph view
+- subscriber
+- merz
+dateAdded: '2025-03-11 09:00:00'
