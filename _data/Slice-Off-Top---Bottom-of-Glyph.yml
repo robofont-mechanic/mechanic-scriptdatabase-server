@@ -4,7 +4,7 @@ description: |
   A simple window which allows you to choose which parts of the current
   glyph you'd like to chop off (e.g above cap height and below baseline)
 developer: Ryan Bugden
-developerURL: ''
+developerURL: 'https://ryanbugden.com/'
 category: On-demand
 tags:
 - contours

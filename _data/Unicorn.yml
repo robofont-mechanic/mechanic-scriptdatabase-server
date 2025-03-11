@@ -4,7 +4,7 @@ description: |
   A simple window to auto-assign unicodes (based on glyph names) or glyph
   names (based on unicodes) to selected glyphs, the current font, or all fonts.
 developer: Ryan Bugden
-developerURL: ''
+developerURL: 'https://ryanbugden.com/'
 category: On-demand
 tags:
 - ezui

@@ -2,9 +2,10 @@ name: Save All Fonts Menu Item
 url: https://gist.github.com/ryanbugden/d90b284ec9a2648ede01d944e84ad5e9
 description: |
   Adds a menu item to "File" which saves all open fonts (not other documents
-  like scripts).
+  like scripts). Update: Deprecated. This behavior (File > [hold Option] > Save All Fonts) 
+  was built into RoboFont as of RF 4.4. Feel free to ignore this script.
 developer: Ryan Bugden
-developerURL: ''
+developerURL: 'https://ryanbugden.com/'
 category: Start-up script
 tags:
 - menu

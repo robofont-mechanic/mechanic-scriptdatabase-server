@@ -4,7 +4,7 @@ description: |
   This is a small proof-of-concept script that allows you to scale the selected
   contours horizontally while compensating for the font’s italicAngle.
 developer: Ryan Bugden
-developerURL: ''
+developerURL: 'https://ryanbugden.com/'
 category: On-demand
 tags:
 - contours

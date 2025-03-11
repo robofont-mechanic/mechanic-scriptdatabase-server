@@ -4,7 +4,7 @@ description: |
   A little script to test alternate glyphs in context. Type a test string
   with blanks (_). See that test string with blanks replaced by selected glyphs.
 developer: Ryan Bugden
-developerURL: ''
+developerURL: 'https://ryanbugden.com/'
 category: On-demand
 tags:
 - glyphs

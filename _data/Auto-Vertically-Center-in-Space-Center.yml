@@ -4,7 +4,7 @@ description: |
   Keep your text vertically centered in Space Center, unless the text is
   taller than the Space Center window. In that case, it will go back to top-aligning.
 developer: Ryan Bugden
-developerURL: ''
+developerURL: 'https://ryanbugden.com/'
 category: Start-up script
 tags:
 - spacing

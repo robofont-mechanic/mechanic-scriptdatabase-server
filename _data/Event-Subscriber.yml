@@ -4,7 +4,7 @@ description: |
   A Subscriber-based version of eventObserver. Useful for tracking internal
   notifications and tool-building.
 developer: Ryan Bugden
-developerURL: ''
+developerURL: 'https://ryanbugden.com/'
 category: On-demand
 tags:
 - ezui
