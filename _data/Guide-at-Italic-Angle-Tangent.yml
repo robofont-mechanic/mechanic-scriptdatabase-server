@@ -1,0 +1,13 @@
+name: Guide at Italic Angle Tangent
+url: https://gist.github.com/LettError/38245266a54e4a19dffe870397046ad5
+description: |
+  Adds a guideline for points (near selected points in the glyph) 
+  on the curve where the tangent is at a given angle.
+developer: LettError Type
+developerURL: 'https://letterror.com'
+category: On-demand
+tags:
+  - guidelines
+  - drawing
+  - glyph view
+dateAdded: '2024-04-14 00:00:00'
