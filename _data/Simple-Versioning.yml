@@ -1,0 +1,9 @@
+name: Simple versioning
+url: https://github.com/LaPolice/LP-RF-Tools/tree/master/Simple-versioning
+description: |
+  Simple versioning system supporting the La Police type development process.
+developer: La Police
+developerURL: 'https://www.lapolice.ch'
+tags:
+- versioning
+dateAdded: '2025-04-28 00:00:00'
