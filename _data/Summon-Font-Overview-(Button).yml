@@ -5,11 +5,11 @@ description: |
   overview. Great for cluttered multi-window mode users. Note: you can also now hit
   Option+Command+E
 developer: Ryan Bugden
-developerURL: 'https://ryanbugden.com/'
+developerURL: https://ryanbugden.com/
 category: Start-up script
 tags:
-- character set
+- glyph set
 - font overview
-- glyph view
+- glyph editor
 - user interface
 dateAdded: '2022-10-5 13:06:43'

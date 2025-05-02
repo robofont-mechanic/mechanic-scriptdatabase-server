@@ -3,10 +3,10 @@ url: https://gist.github.com/adbac/2d2150d5e90a1008c1b8ecb28febfc60
 description: |
   A new version of ProductionType’s magneticMetrics script, adapted for RoboFont 4 (using Subscriber and Merz). Originally written by ProductionType, updated by Adrien Bachelart.
 developer: Adrien Bachelart
-developerURL: 'https://github.com/adbac/'
+developerURL: https://github.com/adbac/
 category: Start-up script
 tags:
-- glyph view
+- glyph editor
 - subscriber
 - merz
 dateAdded: '2025-03-11 09:00:00'

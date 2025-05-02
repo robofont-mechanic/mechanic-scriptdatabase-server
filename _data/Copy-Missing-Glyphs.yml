@@ -5,10 +5,10 @@ description: |
   in the destination UFO. This is useful if you’d like a starting point for drawing
   some glyphs in a new design source.
 developer: Ryan Bugden
-developerURL: 'https://ryanbugden.com/'
+developerURL: https://ryanbugden.com/
 category: On-demand
 tags:
-- character set
+- glyph set
 - ezui
 - glyphs
 dateAdded: '2023-10-3 18:00:16'

@@ -11,11 +11,11 @@ description: |
   It works best with Smooth Operator and AngleRatioTool. Use those to diagnose issues
   and this tool to fix them. Open to name suggestions for this tool :)
 developer: Ryan Bugden
-developerURL: 'https://ryanbugden.com/'
+developerURL: https://ryanbugden.com/
 category: On-demand
 tags:
 - ezui
-- glyph view
+- glyph editor
 - interpolation
 - points
 dateAdded: '2024-25-7 13:44:58'

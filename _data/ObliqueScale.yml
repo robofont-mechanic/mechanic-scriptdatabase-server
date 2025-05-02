@@ -4,11 +4,10 @@ description: |
   Horizontal scaling while preserving the italic angle. (by "unskewing"
   the geometry to "upright", then scaling, then "reskewing" back to the italic angle)
 developer: LettError Type
-developerURL: 'https://letterror.com'
+developerURL: https://letterror.com
 category: Demo / Snippet
 tags:
 - contours
-- editing tools
 - pens
 - points
 - transform

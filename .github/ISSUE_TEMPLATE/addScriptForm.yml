@@ -56,35 +56,43 @@ body:
       description: Select one or more tags.
       multiple: true
       options:
-        - accented glyphs
+        - accents
         - anchors
         - appearance
-        - character set
+        - bidirectional
         - clipboard
         - components
         - contours
+        - design helpers
         - designspace
         - diacritics
         - drawing
-        - editing tools
-        - extension management
         - ezui
+        - extension management
+        - features
         - figures
         - font dimensions
         - font generation
+        - font info
         - font lib
         - font overview
         - fractions
+        - glyph editor
         - glyph generator
-        - glyph view
+        - glyph set
         - glyphs
         - groups
         - guidelines
+        - hinting
+        - images
         - inspector
         - interpolation
         - italics
         - kerning
         - layers
+        - mark colors
+        - mastering
+        - measuring
         - menu
         - merz
         - mojo
@@ -93,6 +101,7 @@ body:
         - observers
         - pens
         - points
+        - RTL
         - safe mode
         - saving
         - scripting
@@ -101,11 +110,16 @@ body:
         - spacing
         - subscriber
         - tabular figures
+        - text
+        - tools
         - transform
         - unicode
+        - unicodes
         - user interface
         - vanilla
+        - variable fonts
         - versioning
+        - workspace
     validations:
       required: true
 

@@ -5,10 +5,10 @@ developer: Jackson
 developerURL: ''
 category: On-demand
 tags:
-- accented glyphs
+- accents
 - anchors
 - components
-- glyph view
+- glyph editor
 - subscriber
 - user interface
 dateAdded: '2022-11-5 10:51:17'

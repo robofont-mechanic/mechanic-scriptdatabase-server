@@ -3,13 +3,12 @@ url: https://gist.github.com/LettError/b6dc76bfb677878952f5cfdcfc39e131
 description: RoboFont Script that offers a small UI for copying the selected glyphs
   in different ways.
 developer: LettError Type
-developerURL: 'https://letterror.com'
+developerURL: https://letterror.com
 category: On-demand
 tags:
-- character set
+- glyph set
 - clipboard
 - components
-- editing tools
 - font overview
 - glyphs
 - groups
