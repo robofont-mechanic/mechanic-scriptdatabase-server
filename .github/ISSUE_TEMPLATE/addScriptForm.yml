@@ -17,14 +17,14 @@ body:
   - type: input
     id: name
     attributes:
-      label: Title
+      label: Script Title
     validations:
       required: true
 
   - type: input
     id: url
     attributes:
-      label: Script Link
+      label: Link to Script
     validations:
       required: true
 
@@ -119,6 +119,7 @@ body:
         - vanilla
         - variable fonts
         - versioning
+        - workflow
         - workspace
     validations:
       required: true
