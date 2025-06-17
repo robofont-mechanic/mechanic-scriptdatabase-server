@@ -1,0 +1,13 @@
+name: Contextual Filters
+url: https://gist.github.com/frankrolf/07d09be24d22413e55ba2a9b4d12a2c8
+description: |
+  Little helpers in a right-click menu for RoboFont’s Font Overview window
+developer: Frank Grießhammer
+developerURL: 'https://www.frgr.de'
+tags:
+- menu
+- font overview
+- selection
+- tools
+- workflow
+dateAdded: '2025-06-17 00:00:01'
