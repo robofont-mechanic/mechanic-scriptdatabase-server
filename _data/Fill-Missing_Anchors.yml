@@ -1,0 +1,12 @@
+name: Fill Missing Anchors
+url: https://gist.github.com/ryanbugden/f455e369bbcfbee854c9554cf6f86504
+description: |
+  Fill missing anchors across all open fonts.
+developer: Ryan Bugden
+developerURL: https://ryanbugden.com/
+category: On-demand
+tags:
+- anchors
+- diacritics
+- accents
+dateAdded: '2026-11-4 10:00:00'
